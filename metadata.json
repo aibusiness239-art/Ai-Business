@@ -1,0 +1,6 @@
+{
+  "name": "গরু বাজার - আধুনিক গবাদিপশু মার্কেটপ্লেস",
+  "description": "বাংলাদেশের প্রথম ও বিশ্বস্ত অনলাইন গরু কেনাবেচার ডিজিটাল মার্কেটপ্লেস। খামারি ও ক্রেতাদের জন্য নিরাপদ Advance Payment ও সাবস্ক্রিপশন ব্যবস্থা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
